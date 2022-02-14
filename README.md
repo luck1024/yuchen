@@ -1,3 +1,29 @@
-#雨辰
-后台管理系统，先通过登录方式进入根据需要楼栋选择楼
-1、再由上选择房间的变化，对房间的变化进行shoufei
+# default
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
