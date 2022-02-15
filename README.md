@@ -25,9 +25,9 @@ npm run test
 npm run lint
 ```
 
-
+http://139.196.197.158
 用户名：qingjingzehui
 密码：12345678
 
 ### Customize configuration
-See [139.196.197.158](https://cli.vuejs.org/config/).
+See [](https://cli.vuejs.org/config/).
