@@ -1,0 +1,42 @@
+ #message {
+		justify-content: center;
+		align-items: center;
+		width: 98vw;
+		height: 100vh;
+		z-index: 1000;
+		top: 0px;
+		left: 0px;
+	}
+
+	#message>div {
+		box-shadow: 0 0 5px rgba(221, 221, 221, .7);
+		border-radius: 5px;
+		border: 1px solid #a9c9e2;
+		background: #e8f5fe
+	}
+
+	#message>div>p {
+		line-height: 2rem;
+		font-family: "microsoft yahei";
+	}
+
+	#message>div>p:nth-child(1) {
+		padding: 1rem;
+		letter-spacing: .1rem;
+		font-size: .8rem;
+		color: #969696;
+	}
+
+	#message>div>p:nth-child(2) {
+		padding: 1rem;
+		font-size: 1rem;
+		color: #989898;
+		letter-spacing: .3rem;
+	}
+
+	#message>div>p:nth-child(3) {
+		padding-left: 1rem;
+		font-size: 2rem;
+
+		padding: 1rem;
+	}
