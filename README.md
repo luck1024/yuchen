@@ -35,10 +35,7 @@ See [](https://cli.vuejs.org/config/).
 
 
 
-import showTable from '../../../components/showTable/showTable.vue'
-import maskDiv from '../../../components/mask/mask.vue'
-import pay from './payMoney/index.vue'
-import history from '../../../components/history/history.vue'
+
 export default{
 	name:'payMoney',
 	data(){
