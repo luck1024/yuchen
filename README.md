@@ -36,31 +36,8 @@ See [](https://cli.vuejs.org/config/).
 
 
 
-export default{
-	name:'payMoney',
-	data(){
-		return{
-			building: [],
-			BuildingFloor: [],
-			BuildingIndex:0,
-			BuildingFloorIndex: 0,
-			showParms:{},
-			reset:false,
-			action:'',
-			edit:{}
-		};
-	},
-	components:{
-		showTable,
-		maskDiv,
-		pay,
-		history
-	},
-	// 钩子函数，在创建完成之前
-	// beforeCreate(){
-		
-	// },
-	created() {
+相关代码
+	创建（）{
 		
 		this.showParms={
 			url:'room/searchRoom',
